@@ -41,7 +41,9 @@ WEATHER = {"0": 1, "1": 2, "3": 3, "4": 4, "5": 5, "7": 6, "8": 6, "9": 7, "10":
            "92": 68, "93": 69, "94": 70, "95": 71, "96": 72, "97": 73, "98": 74, "99": 75}
 
 
-
+def importCity(lang, long):
+    city = "jerusalem"
+    return city
 def retrieve_ims_xml():  # getting an xml document from the ims(israel meteorological service) website
     logging.basicConfig(level=logging.DEBUG)
     s = requests.session()
