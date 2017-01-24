@@ -3,7 +3,7 @@ Contributing to ANYWAY
 
 OMG. OMG. OMG. We are really glad you are joining the team!  We set up a contributor's guide that explains all about [setting up ANYWAY's development environment](http://hasadna.github.io/anyway) - prepare to be amazed. 
 
-![Contributors guide](static/img/anyway.png)
+![Contributors guide](../static/img/anyway.png)
 
 This page contains information about reporting issues as well as some tips and
 guidelines useful to experienced open source contributors. 
@@ -121,7 +121,7 @@ You are more than welcome to join us, ask questions and raise any issues you stu
 
 **Slack**
 
-Our Slack channel is connected to the relevant git notifications. 
+[Our Slack channel](https://oway.slack.com/) is connected to the relevant git notifications. 
 Ask galraij to add you and use it to keep in touch with the team while off-campus.
 Questions are always welcome.
 
